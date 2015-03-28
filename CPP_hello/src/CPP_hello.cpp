@@ -12,8 +12,6 @@
 using namespace std;
 
 int main() {
-  cout << "Hello KIT" << endl;
-  cout << "This is another line" << endl;
 
   time_t rawtime;
   time(&rawtime);
